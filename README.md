@@ -2,6 +2,7 @@ Preview:
 ![Hasil Run StudentProfile](screenshots/Screenshot_20260914_225744.png)
 
 Kode:
+```kotlin
 package com.example.studentprofile
 
 import android.os.Bundle
@@ -394,3 +395,4 @@ text: String
         )
     }
 }
+```
