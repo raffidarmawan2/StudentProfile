@@ -1,5 +1,5 @@
 Preview:
-![Hasil Run StudentProfile](screenshots/Profil_foto.jpeg)
+![Hasil Run StudentProfile](screenshots/Screenshot_20260914_225744.png)
 
 Kode:
 package com.example.studentprofile
