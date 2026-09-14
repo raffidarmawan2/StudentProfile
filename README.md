@@ -1,5 +1,5 @@
 Preview:
-![Hasil Run StudentProfile](screenshots/Screenshot_20260914_225744.png)
+![Hasil Run StudentProfile](screenshoot/Screenshot_20260914_225744.png)
 
 Kode:
 ```kotlin
